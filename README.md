@@ -1,1 +1,1 @@
-# This Project Contains Math Problems and Examples.
+# This Project Contains Math Problems Solved and Examples.
